@@ -1,9 +1,10 @@
 # Road Accidents Analysis In PowerBI
+![image](https://github.com/user-attachments/assets/58a56c18-2822-4fe2-97af-486c098b5298)
 
 ## Road Accidents Analysis Report
 ________________________________________
 ### Executive Summary
-- The Road Accidents Analysis reveals a decline in overall accidents and casualties, reflecting progress in road safety measures. Key findings indicate that while total accidents have decreased by 11.7%, slight accidents remain the most frequent type, accounting for over 86% of incidents. Cars dominate as the primary vehicle type involved, and single carriageways contribute the most accidents by road type. Fatalities have seen a significant reduction of 35.6%, but urban areas remain hotspots for incidents, particularly on Fridays. This report provides professional insights and actionable recommendations to address critical issues and sustain safety improvements.
+- The Road Accidents Analysis reveals a decline in overall accidents and casualties, reflecting progress in road safety measures. Key findings indicate that while total accidents have decreased by 11.7%, slight accidents remain the most frequent type, accounting for over 86% of incidents. Cars dominate as the primary vehicle type involved, and single-carriageways contribute to the most accidents by road type. Fatalities have seen a significant reduction of 35.6%, but urban areas remain hotspots for incidents, particularly on Fridays. This report provides professional insights and actionable recommendations to address critical issues and sustain safety improvements.
 ________________________________________
 ### 1. Key Metrics and Trends
 - **Accident and Casualty Statistics**
