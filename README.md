@@ -20,7 +20,8 @@ ________________________________________
   - **Continuing Fatality Reduction Efforts:** Invest in advanced emergency response systems and collision prevention technologies.
   - **Address Frequent Minor Accidents:** Deploy campaigns targeting distracted driving and improving traffic signage.
 
-    ![image](https://github.com/user-attachments/assets/27c32fb9-a852-40b7-ab15-8eb94c6d2f5a)
+   ![image](https://github.com/user-attachments/assets/a6696f9e-c758-4638-be27-48abab6cca84)
+
 
 ________________________________________
 ## 2. Accident Trends by Vehicle Type
@@ -79,8 +80,7 @@ ________________________________________
   - **Junction Improvements:** Redesign Give Way intersections with clearer signage and advanced warnings.
   - **Standardized Data Collection:** Mandate detailed reporting at accident sites to improve analysis.
 
-    ![image](https://github.com/user-attachments/assets/020c1888-6975-4fc2-9209-b0e5f7d0e07d)
-
+   ![image](https://github.com/user-attachments/assets/2b8a270a-71fd-49f9-9d0e-15c0f06ab12c)
 ________________________________________
 ## 6. Casualty Breakdown by Urban vs. Rural
   - **Urban Areas: 61.9%** of casualties occur in urban zones.
