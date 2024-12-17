@@ -4,7 +4,7 @@
 ## Road Accidents Analysis Report
 ________________________________________
 ### Executive Summary
-- The Road Accidents Analysis reveals a decline in overall accidents and casualties, reflecting progress in road safety measures. Key findings indicate that while total accidents have decreased by 11.7%, slight accidents remain the most frequent type, accounting for over 86% of incidents. Cars dominate as the primary vehicle type involved, and single-carriageways contribute to the most accidents by road type. Fatalities have seen a significant reduction of 35.6%, but urban areas remain hotspots for incidents, particularly on Fridays. This report provides professional insights and actionable recommendations to address critical issues and sustain safety improvements.
+- The Road Accidents Analysis reveals a decline in overall accidents and casualties, reflecting progress in road safety measures. Key findings indicate that while total accidents have decreased by **11.7%**, slight accidents remain the most frequent type, accounting for over **86%**of incidents. Cars dominate as the primary vehicle type involved, and single-carriageways contribute to the most accidents by road type. Fatalities have significantly reduced by **35.6%**, but urban areas remain hotspots for incidents, particularly on Fridays. This report provides professional insights and actionable recommendations to address critical issues and sustain safety improvements.
 ________________________________________
 ### 1. Key Metrics and Trends
 - **Accident and Casualty Statistics**
@@ -34,37 +34,37 @@ ________________________________________
   - Bike Safety Enhancements: Build dedicated bike lanes and enforce helmet laws.
   - Commercial Driver Regulation: Implement mandatory training for van drivers and monitor speeds in high-density areas.
 ________________________________________
-3. Accident Trends by Road Type
-Road Type Contributions
-•	Single Carriageways: 92K accidents, the highest risk type.
-•	Dual Carriageways: 19K accidents, less frequent but still significant.
-•	Roundabouts: 9K accidents, reflecting potential design issues.
-•	Slip Roads and One-Way Streets: 2K accidents each showing localized risks.
-Insights:
-1.	Single Carriageways: High congestion, overtaking behaviors, and pedestrian interactions increase risks.
-2.	Roundabout Risks: Accidents at roundabouts suggest design inefficiencies or driver confusion.
-Recommendations:
-•	Single Carriageway Safety: Install speed cameras, improve pedestrian crossings, and limit overtaking zones.
-•	Roundabout Redesign: Use clear lane markings and install yield signs to improve navigation.
-•	Slip Roads: Enhance merging lane lengths and visibility for safer transitions.
+## 3. Accident Trends by Road Type
+- **Road Type Contributions**
+  - **Single Carriageways: 92K** accidents, the highest risk type.
+  - **Dual Carriageways: 19K** accidents, less frequent but still significant.
+  - **Roundabouts: 9K** accidents, reflecting potential design issues.
+  - **Slip Roads and One-Way Streets: 2K** accidents each showing localized risks.
+- **Insights:**
+  - **1.	Single Carriageways:** High congestion, overtaking behaviors, and pedestrian interactions increase risks.
+  - **2.	Roundabout Risks:** Accidents at roundabouts suggest design inefficiencies or driver confusion.
+### Recommendations:
+  - **Single Carriageway Safety:** Install speed cameras, improve pedestrian crossings, and limit overtaking zones.
+  - **Roundabout Redesign:** Use clear lane markings and install yield signs to improve navigation.
+  - **Slip Roads:** Enhance merging lane lengths and visibility for safer transitions.
 ________________________________________
-4. Temporal Trends and Patterns
-Seasonal and Weekly Patterns
-•	Monthly Trends:
-o	Accidents peak during warmer months (e.g., July 2021: 164K accidents).
-o	Declines are notable toward the year-end, likely reflecting seasonal behavior changes.
-•	Day of the Week:
-o	Fridays: 24K accidents, consistently the most hazardous day.
-o	Sundays: 16K accidents, the least hazardous.
-Insights:
-1.	Seasonality Impacts: Warmer months see spikes due to increased travel and outdoor activities.
-2.	Friday Peaks: End-of-week congestion and fatigue contribute to higher accident rates.
-Recommendations:
-•	Seasonal Campaigns: Deploy enforcement and awareness campaigns during high-risk months.
-•	Friday Interventions: Introduce traffic monitoring and policing during peak hours.
+## 4. Temporal Trends and Patterns
+- **Seasonal and Weekly Patterns**
+  - **Monthly Trends:**
+  - Accidents peak during warmer months (e.g., July 2021: 164K accidents).
+  - Declines are notable toward the year-end, likely reflecting seasonal behavior changes.
+- **Day of the Week:**
+  - **Fridays: 24K** accidents, consistently the most hazardous day.
+  - **Sundays: 16K** accidents, the least hazardous.
+- **Insights:**
+  - **1.	Seasonality Impacts:** Warmer months see spikes due to increased travel and outdoor activities.
+  - **2.	Friday Peaks:** End-of-week congestion and fatigue contribute to higher accident rates.
+### Recommendations:
+  - **Seasonal Campaigns:** Deploy enforcement and awareness campaigns during high-risk months.
+  - **Friday Interventions:** Introduce traffic monitoring and policing during peak hours.
 ________________________________________
-5. Junction Control Analysis
-Junction Data Breakdown
+## 5. Junction Control Analysis
+- **Junction Data Breakdown**
 •	Give Way: 70.9K accidents, the highest among junction types.
 •	Signal-Controlled Intersections: 15.6K accidents, reflecting moderate risks.
 •	Uncontrolled Junctions: 10.4K accidents, showing safety gaps.
