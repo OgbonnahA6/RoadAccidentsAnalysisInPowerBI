@@ -14,25 +14,25 @@ ________________________________________
   - Fatal Accidents: 1.5K (-35.6% YoY).
   - Total Casualties (2022): 195.7K (-11.9% YoY).
 - **Insights:**
-1.	Decline in Fatalities: The significant reduction in fatal accidents reflects improved emergency response, awareness campaigns, and vehicle safety advancements.
-2.	High Volume of Slight Accidents: Slight accidents dominate, posing persistent resource allocation challenges for traffic management and emergency services.
-Recommendations:
-•	Continuing Fatality Reduction Efforts: Invest in advanced emergency response systems and collision prevention technologies.
-•	Address Frequent Minor Accidents: Deploy campaigns targeting distracted driving and improving traffic signage.
+  - **Decline in Fatalities:** The significant reduction in fatal accidents reflects improved emergency response, awareness campaigns, and vehicle safety advancements.
+  - **High Volume of Slight Accidents:** Slight accidents dominate, posing persistent resource allocation challenges for traffic management and emergency services.
+### Recommendations:
+  - **Continuing Fatality Reduction Efforts:** Invest in advanced emergency response systems and collision prevention technologies.
+  - **Address Frequent Minor Accidents:** Deploy campaigns targeting distracted driving and improving traffic signage.
 ________________________________________
-2. Accident Trends by Vehicle Type
-Top Involved Vehicles
-•	Cars: 155.8K accidents, accounting for 75% of incidents.
-•	Vans: 15.9K accidents, significant among commercial vehicles.
-•	Bikes: 15.6K accidents, reflecting high vulnerability.
-•	Buses: 6.6K accidents, moderate but notable risk.
-Insights:
-1.	Car Dominance: Cars overwhelmingly contribute to accidents, likely due to their volume and high reliance in urban areas.
-2.	Bike and Van Vulnerability: Bikes and vans highlight infrastructure and regulatory gaps in urban and suburban environments.
-Recommendations:
-•	Car-Focused Interventions: Promote advanced safety features (e.g., adaptive cruise control, lane-keeping assist).
-•	Bike Safety Enhancements: Build dedicated bike lanes and enforce helmet laws.
-•	Commercial Driver Regulation: Implement mandatory training for van drivers and monitor speeds in high-density areas.
+## 2. Accident Trends by Vehicle Type
+- **Top Involved Vehicles**
+  - **Cars: 155.8K** accidents, accounting for **75%** of incidents.
+  - **Vans: 15.9K** accidents, significant among commercial vehicles.
+  - **Bikes: 15.6K** accidents, reflecting high vulnerability.
+  - **Buses: 6.6K** accidents, moderate but notable risk.
+- **Insights:**
+  - **1.	Car Dominance:** Cars overwhelmingly contribute to accidents, likely due to their volume and high reliance in urban areas.
+  - **2.	Bike and Van Vulnerability:** Bikes and vans highlight infrastructure and regulatory gaps in urban and suburban environments.
+### Recommendations:
+  - Car-Focused Interventions: Promote advanced safety features (e.g., adaptive cruise control, lane-keeping assist).
+  - Bike Safety Enhancements: Build dedicated bike lanes and enforce helmet laws.
+  - Commercial Driver Regulation: Implement mandatory training for van drivers and monitor speeds in high-density areas.
 ________________________________________
 3. Accident Trends by Road Type
 Road Type Contributions
